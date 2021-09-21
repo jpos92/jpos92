@@ -1,6 +1,6 @@
 ### Olá! Me chamo João Paulo 👋
 - 👨‍🎓 Sistemas de Informação
-- 👨‍💻 Hoje eu trabalho com front-end (Angular)
+- 👨‍💻 Atualmente, trabalho com front-end (Angular)
 - 📖 Estou estudando TypeScript | Java (Spring Boot) | C#
 
 <div>
