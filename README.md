@@ -1,7 +1,7 @@
 ### Olá! Me chamo João Paulo 👋
 - 👨‍🎓 Sistemas de Informação
 - 👨‍💻 Atualmente, trabalho com front-end (Angular)
-- 📖 Estou estudando TypeScript | Java (Spring Boot) | C#
+- 📖 Estou estudando Java (Spring Boot) | C#
 
 <div>
   <a href="https://github.com/jpos92">
